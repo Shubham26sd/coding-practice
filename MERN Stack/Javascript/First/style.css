@@ -1,0 +1,34 @@
+/* #box{
+    height: 150px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+
+} */
+
+/* .content{
+    color: red;
+}
+
+.newClass{
+    background-color: green;
+} */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
